@@ -1,0 +1,55 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #ffffff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.navbar {
+  background-color: #b9b4b4;
+}
+
+.navbar-brand {
+  text-decoration: none;
+  color: #000;
+  font-size: 1.5em;
+}
+
+.row {
+  width: 100%;
+}
+
+.box-container {
+  border: 2px solid #000;
+  background-color: #b9b4b4;
+  margin: 10px;
+  position: relative;
+}
+
+h1 {
+  padding-top: 20px;
+  font-size: 1.8em;
+  font-weight: 550;
+}
+
+h3 {
+  padding-top: 10px;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+p {
+  text-align: justify;
+}
+
+/*X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
